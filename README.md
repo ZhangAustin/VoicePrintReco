@@ -1,7 +1,5 @@
 ## Voice Print Recognition
--  Author: Bill Xia  
--  Email: ibillxia@gmail.com  
--  Blog: http://ibillxia.github.io  
+
 
 This package is based on the [sphere project](http://www.nist.gov/itl/iad/mig/tools.cfm), [SPro project](https://gforge.inria.fr/frs/?group_id=532), the ALIZE project(include ALIZE package and LIA_RAL package. 
 For more information of ALIZE, please see [http://mistral.univ-avignon.fr/index_en.html](http://mistral.univ-avignon.fr/index_en.html)).
